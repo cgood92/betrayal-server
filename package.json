@@ -1,0 +1,8 @@
+{
+  "name": "betrayal-server",
+  "version": "1.0.0",
+  "description": "A signaling server for betrayal",
+  "main": "index.js",
+  "author": "Clint Goodman",
+  "license": "MIT"
+}
