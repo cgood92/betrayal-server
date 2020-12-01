@@ -4,5 +4,11 @@
   "description": "A signaling server for betrayal",
   "main": "index.js",
   "author": "Clint Goodman",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "prettier": "^2.2.1",
+    "socket.io": "^3.0.3"
+  }
 }
